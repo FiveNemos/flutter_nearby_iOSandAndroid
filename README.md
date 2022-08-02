@@ -1,6 +1,8 @@
 # flutter_nearby_connections
 flutter nearby connections
 
+iOS 환경에서 지원되는 nearby 패키지를 찾는 과정에서 포크해둔 레포지토리입니다.
+
 #### Plugin: [https://pub.dev/packages/flutter_nearby_connections](https://pub.dev/packages/flutter_nearby_connections)
 
 ### Flutter plugin supports peer-to-peer connectivity and discovers nearby devices for Android and IOS
